@@ -16,7 +16,7 @@
 - Frameworks & Libraries: React, Redux, Node, Express, Flask
 - Database: PostgreSQL
 - Cloud Infrastructure: Heroku, Amazon Web Services
-- Design: HTML5, CSS3, SASS
+- Design: HTML5, CSS3, SCSS
 - Other: Docker, RESTFul
 
 ![JS](https://github.com/harshcut/harshcut/blob/master/static/javascript.svg)   ![Python](https://github.com/harshcut/harshcut/blob/master/static/python.svg)   ![Node](https://github.com/harshcut/harshcut/blob/master/static/nodejs.svg)   ![Express](https://github.com/harshcut/harshcut/blob/master/static/expressjs.svg)   ![POstgreSQL](https://github.com/harshcut/harshcut/blob/master/static/postgresql.svg)   ![React](https://github.com/harshcut/harshcut/blob/master/static/react.svg)   ![Redux](https://github.com/harshcut/harshcut/blob/master/static/redux.svg)   ![Heroku](https://github.com/harshcut/harshcut/blob/master/static/heroku.svg)  ![Postman](https://github.com/harshcut/harshcut/blob/master/static/postman.svg)
