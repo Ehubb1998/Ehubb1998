@@ -1,9 +1,9 @@
-# Elijah Hubbard  |  Fullstack Software Engineer 🌎 
+# Elijah Hubbard  |  Full Stack Software Engineer 🌎 
 
 - 💻 Check out my projects on my portfolio [here](https://ehubb1998.github.io/Ehubb/)
 - 🔭 I’m currently working on Algos and Data Structures
 - ⚡ Fun fact: I'm a Professional Dancer🕺🏾
-- 🙇🏽‍♂️Helping to change to world one day at a time!
+- 🙇🏽‍♂️Helping to change the world one day at a time!
 
 ### Reach out to me:
 
