@@ -7,7 +7,7 @@
 
 ### Reach out to me:
 
-[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:alephami0@gmail.com)
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ehubb15@gmail.com)
 
 ## Languages & Skills
 
